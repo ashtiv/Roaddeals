@@ -1,0 +1,8 @@
+.submitbutton {
+    margin-top: 100px;
+}
+
+.typelist:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
